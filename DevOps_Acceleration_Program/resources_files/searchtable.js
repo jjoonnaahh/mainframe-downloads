@@ -208,3 +208,5 @@ function toggleAbstract(item) {
 function formatFilter(myFilter){
   return document.getElementById(myFilter+"-button").innerText
 }
+
+//slide down for drop down tabs//
